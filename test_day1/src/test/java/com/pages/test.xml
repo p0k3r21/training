@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="tests">
+	<test name="Test1">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="test123.newtest3" />
+		</classes>
+	</test> <!-- Test -->
+	
+</suite> <!-- Suite -->
+
